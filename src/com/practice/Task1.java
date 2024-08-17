@@ -10,6 +10,7 @@ public class Task1 {
 		 * Session (close the browser).
 		 */
 
+		System.out.println("This is just Demo!!");
 	}
 
 }
